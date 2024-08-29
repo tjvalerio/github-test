@@ -4,7 +4,7 @@
 # a test. Capisce???
 
 # So just for fun, and to justify making some changes to this file
-# I just want to define "Capisce", it is Italian-Americant slang for
+# I just want to define "Capisce", it is Italian-American slang for
 # "understand?"
 
 # A change to our downloaded file, followed by a push
@@ -12,3 +12,10 @@
 
 # Another push test on January 28th
 # Push test on January 30, 2024
+
+# just checking that I understand this stuff before I make my
+# changes to my SDL-hyperion fork, also changed up above
+# "Italian-Americant" to "Italian-American"
+# the time is now: 6:26 p.m. August 29, 2024
+
+# Go for it!!
